@@ -1,0 +1,317 @@
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\ApplicationInsights.config
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.dll.config
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.pdb
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.exe
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.exe.config
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.rsp
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.exe
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.exe.config
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.rsp
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.AppContext.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Collections.Immutable.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Console.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.Process.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.Compression.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.Pipes.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.AccessControl.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Claims.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Principal.Windows.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Threading.Thread.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.ValueTuple.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XPath.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.exe
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.exe.config
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.rsp
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\VBCSCompiler.exe
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\VBCSCompiler.exe.config
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Antlr3.Runtime.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.SqlServer.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.DependencyCollector.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Web.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.WindowsServer.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.ApplicationInsights.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Newtonsoft.Json.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Diagnostics.DiagnosticSource.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Net.Http.Formatting.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Helpers.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.WebHost.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Mvc.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Optimization.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Razor.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Deployment.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Razor.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\WebGrease.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.SqlServer.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Helpers.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Mvc.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Optimization.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Razor.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Deployment.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Razor.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Newtonsoft.Json.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Antlr3.Runtime.pdb
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Net.Http.Formatting.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.WebHost.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Diagnostics.DiagnosticSource.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.DependencyCollector.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.WindowsServer.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Web.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.AssemblyReference.cache
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.CoreCompileInputs.cache
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.CopyComplete
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.dll
+D:\projects\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.pdb
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\ApplicationInsights.config
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.dll.config
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.pdb
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.exe
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.exe.config
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.rsp
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.exe
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.exe.config
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.rsp
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.AppContext.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Console.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.Compression.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Claims.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Threading.Thread.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.ValueTuple.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.exe
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.exe.config
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.rsp
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\VBCSCompiler.exe
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Antlr3.Runtime.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.SqlServer.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Web.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Newtonsoft.Json.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Net.Http.Formatting.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Helpers.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.WebHost.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Mvc.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Optimization.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Razor.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Razor.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\WebGrease.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.SqlServer.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Helpers.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Mvc.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Optimization.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Razor.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Razor.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Newtonsoft.Json.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Antlr3.Runtime.pdb
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Net.Http.Formatting.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.WebHost.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Web.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.AssemblyReference.cache
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.CoreCompileInputs.cache
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.CopyComplete
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.dll
+C:\Users\PIU\Downloads\Telegram Desktop\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.pdb
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\ApplicationInsights.config
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.dll.config
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\TaxiService.pdb
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.exe
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.exe.config
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csc.rsp
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.exe
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.exe.config
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\csi.rsp
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.AppContext.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Collections.Immutable.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Console.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.Process.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.Compression.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.IO.Pipes.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.AccessControl.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Claims.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Security.Principal.Windows.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Threading.Thread.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.ValueTuple.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XPath.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.exe
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.exe.config
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\vbc.rsp
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\VBCSCompiler.exe
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\roslyn\VBCSCompiler.exe.config
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Antlr3.Runtime.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.SqlServer.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Agent.Intercept.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.DependencyCollector.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Web.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.WindowsServer.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.ApplicationInsights.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Newtonsoft.Json.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Diagnostics.DiagnosticSource.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Net.Http.Formatting.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Helpers.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.WebHost.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Mvc.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Optimization.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Razor.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Deployment.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Razor.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\WebGrease.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\EntityFramework.SqlServer.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Helpers.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Mvc.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Optimization.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Razor.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Deployment.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.WebPages.Razor.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Newtonsoft.Json.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Antlr3.Runtime.pdb
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Net.Http.Formatting.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Web.Http.WebHost.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Diagnostics.DiagnosticSource.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.DependencyCollector.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.WindowsServer.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.AI.Web.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.AssemblyReference.cache
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.CoreCompileInputs.cache
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.csproj.CopyComplete
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\obj\Debug\TaxiService.pdb
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Castle.Core.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Moq.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Threading.Tasks.Extensions.dll
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Castle.Core.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\Moq.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\projects\train\train\taxi-service-.net-csharp\TaxiService\TaxiService\bin\System.Threading.Tasks.Extensions.xml
